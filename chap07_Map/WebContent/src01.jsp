@@ -14,8 +14,7 @@
         	  		
           		},
           		"zoom" : 15
-        	}
-      	);
+        	});
       }
     </script>
 <script
